@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "@owais";
-const char* password = "Owais@2412";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 const char* host = "192.168.110.202"; // Replace with the server's IP address
 const uint16_t port = 80;
 
