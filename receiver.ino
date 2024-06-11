@@ -2,7 +2,7 @@
 
 const char* ssid = "SSID";
 const char* password = "PASSWORD";
-const char* host = "192.168.110.202"; // Replace with the server's IP address
+const char* host = "192.168.xx.xx"; // Replace with the server's IP address
 const uint16_t port = 80;
 
 void setup() {
