@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "@owais";
-const char* password = "Owais@2412";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 const int localUdpPort = 4210;
 
